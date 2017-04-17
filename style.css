@@ -4,6 +4,6 @@ li a{display: block; padding: 8px; text-decoration: none; color:black; font-fami
 li a:hover{background-color:white}
 .active{background-color: white}
 
-body{background-image:url(perspective%20side%20view.jpg); width: 900px; height: auto}
+body{background-image:url(perspective%20side%20view.jpg); background-repeat: no-repeat; background-position: center; background-size:auto}
 
-h1{font-size: 100px; font-family: 'Raleway', sans-serif; text-align: center;}
+h1{font-size: 100px; font-family: 'Raleway', sans-serif; text-align: center; margin-top: 200px}
