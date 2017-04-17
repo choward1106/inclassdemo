@@ -19,7 +19,6 @@ h1{font-family: 'Raleway', sans-serif; font-size: 200; display:inline-block; flo
 #link {float: right; display: inline-block; margin-right: 45%; margin-top: 20%; font-size: 30px; font-family: 'Raleway', sans-serif;}
 
 
-#link a:link, #link a:visited {background-color:#F1E98B; color: white; padding: 14 px 25 px; text-align: center; text-decoration: none; display: inline-block; width: 100px; height: 50px; text-align: center; text
-}
+#link a:link, #link a:visited {background-color:#F1E98B; color: white; padding: 14 px 25 px; text-align: center; text-decoration: none; display: inline-block; width: 100px; height: 50px; text-align: center;}
 
 #link a:hover,#link a:active {background-color: white; width: 80px; height: 30px}
