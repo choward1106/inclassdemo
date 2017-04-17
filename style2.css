@@ -2,16 +2,24 @@ nav{background-color: #F1E98B}
 
 ul{list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #F1E98B; width: 100%}
 li{float: right}
-li a{display: block; padding: 8px; text-decoration: none; color:black; font-family: 'Oswald', sans-serif;}
+li a{display: block; padding: 8px; text-decoration: none; color:black; font-family: 'Open Sans', sans-serif; font-size: 15px}
 li a:hover{background-color:white}
 .active{background-color: white}
 
 body{background-color: #DDE5E9}
 
-.img-circle {
-    border-radius: 50%; resize: both; width: 40%; margin-left: 100px; margin-top:100px
+img{
+    border-radius: 50%; resize: both; width: 40%; margin-left: 100px; margin-top:100px; display: inline-block; float: left
 }
 
+h1{font-family: 'Raleway', sans-serif; font-size: 200; display:inline-block; float: right; margin-right: 30%; margin-top: 8%; font-size:80px}
 
-title{font-family: 'Oswald', sans-serif; font-size: 200;}
+#text{font-family: 'Raleway', sans-serif; font-size: 200; float: right; margin-right: 30%; display: inline-block; font-size: 25px}
 
+#link {float: right; display: inline-block; margin-right: 45%; margin-top: 20%; font-size: 30px; font-family: 'Raleway', sans-serif;}
+
+
+#link a:link, #link a:visited {background-color:#F1E98B; color: white; padding: 14 px 25 px; text-align: center; text-decoration: none; display: inline-block; width: 100px; height: 50px; text-align: center; text
+}
+
+#link a:hover,#link a:active {background-color: white; width: 80px; height: 30px}

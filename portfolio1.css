@@ -1,0 +1,21 @@
+ul{list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #F1E98B; width: 100%}
+li{float: right}
+li a{display: block; padding: 8px; text-decoration: none; color:black; font-family: 'Open Sans', sans-serif; font-size: 15px}
+li a:hover{background-color:white}
+.active{background-color: white}
+
+body{background-color: #DDE5E9}
+
+h1{float:right; margin-right: 14%; font-family: 'Raleway', sans-serif; display: inline-block}
+
+#text{float: right; display:inline-block; font-family: 'Raleway', sans-serif; margin-right: 15%}
+
+#main{float: left; width: 2200px; height: auto; display: inline-block}
+
+#break{height: 40px}
+
+#break2{height: 1600px}
+
+img{float:left; display: inline-block; margin:25px; position: relative; opacity: 1.0;}
+
+h2{float:left; font-family: 'Raleway', sans-serif; margin-bottom: 50px}
