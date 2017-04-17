@@ -6,7 +6,7 @@ li a:hover{background-color:white}
 
 body{background-color: #DDE5E9}
 
-h1{float:right; margin-right: 40%; font-family: 'Raleway', sans-serif; display: inline-block}
+h1{float:right; margin-right: 15%; font-family: 'Raleway', sans-serif; display: inline-block}
 
 #text{float: right; display:inline-block; font-family: 'Raleway', sans-serif; margin-right: 15%}
 
@@ -16,4 +16,4 @@ h1{float:right; margin-right: 40%; font-family: 'Raleway', sans-serif; display: 
 
 img{float:left; display: inline-block; margin:25px; position: relative; opacity: 1.0;}
 
-h2{float:left; font-family: 'Raleway', sans-serif; margin-bottom: 400px}
+h2{float:left; font-family: 'Raleway', sans-serif; margin-top: 40px; margin-right: 80%}
